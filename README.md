@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepiikaa27&label=Profile%20views&color=0e75b6&style=flat" alt="deepiikaa27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepiikaa27" alt="deepiikaa27" /></a> </p>
 
 - 🔭 I’m currently working on **YouTube clone**
 
